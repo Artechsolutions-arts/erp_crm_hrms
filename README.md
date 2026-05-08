@@ -1,6 +1,6 @@
 # AR Tech Solutions - Integrated ERP, CRM, & HRM
 
-This repository contains the white-labeled ERPNext v16 instance for **AR Tech Solutions**. It includes custom branding, integrated HRM (Version-16), and CRM modules.
+This repository contains the integrated ERP, CRM, and HRM system for **AR Tech Solutions**.
 
 ## 🚀 Quick Start
 

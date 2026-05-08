@@ -1,0 +1,33 @@
+/* AR Tech Solutions - Branding Overrides */
+
+/* Hide Frappe copyright in About dialog */
+.modal-dialog .frappe-control[data-fieldname="about_html"] .text-muted:last-child {
+    display: none !important;
+}
+
+/* Hide 'Built on Frappe' comment footer */
+.website-footer .powered-by,
+.powered-by-erpnext,
+[class*="powered-by"] {
+    display: none !important;
+}
+
+/* Navbar logo sizing */
+.navbar-brand img,
+.navbar-home img {
+    height: 28px !important;
+    width: auto !important;
+    object-fit: contain !important;
+}
+
+/* Hide any lingering Frappe links in sidebar */
+.desk-sidebar .sidebar-menu .frappe-ad,
+.desk-sidebar .sidebar-ad {
+    display: none !important;
+}
+
+/* Login page branding */
+.page-card .page-card-head .page-logo {
+    max-height: 40px !important;
+    width: auto !important;
+}

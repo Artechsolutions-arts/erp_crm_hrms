@@ -26,12 +26,6 @@ Once the containers are running, open your browser and go to:
 
 ---
 
-## 🛠 Features
-- **White-Labeled UI**: All references to Frappe/ERPNext replaced with "AR Tech Solutions".
-- **Integrated HRM**: Stable HR & Payroll management (v16).
-- **Integrated CRM**: Fully configured Customer Relationship Management.
-- **Persistent Data**: Database and site files are stored in Docker volumes for safety.
-
 ## 📝 Maintenance
 To update the system or restart services:
 ```bash
